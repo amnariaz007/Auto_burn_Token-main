@@ -2,6 +2,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.5.16;
 
+//##this is the auto_burn_token
 interface IBEP20 {
   /**
    * @dev Returns the amount of tokens in existence.
